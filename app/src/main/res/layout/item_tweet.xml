@@ -14,11 +14,11 @@
         android:layout_alignParentTop="true"
         android:layout_marginStart="0dp"
         android:layout_marginTop="10dp"
-        tools:srcCompat="@tools:sample/avatars"
         android:background="@drawable/bg_circle"
         android:outlineProvider="background"
+        tools:srcCompat="@tools:sample/avatars"
 
-    />
+        />
 
     <TextView
         android:id="@+id/tvName"
@@ -44,14 +44,13 @@
         android:layout_toEndOf="@+id/tvName"
         android:fontFamily="@font/open_sans_light"
         android:text="TextView"
-        tools:text="@robjgb" />
+        tools:text="robjgb" />
 
     <TextView
         android:id="@+id/tvBody"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/tvScreenName"
-        android:layout_centerVertical="true"
         android:layout_marginStart="5dp"
         android:layout_marginTop="5dp"
         android:layout_toEndOf="@+id/ivProfileImage"
@@ -77,9 +76,9 @@
     <View
         android:layout_width="match_parent"
         android:layout_height="4px"
-        android:layout_below="@+id/tvBody"
+        android:layout_below="@id/tvBody"
         android:layout_alignParentStart="true"
-        android:layout_marginStart="0dp"
+        android:layout_marginStart="20dp"
         android:layout_marginTop="20dp"
         android:layout_marginEnd="0dp"
         android:layout_marginBottom="0dp"
