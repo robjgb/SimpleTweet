@@ -8,16 +8,16 @@ Time spent: **7** hours spent in total
 
 - [X] User can **sign in to Twitter** using OAuth login
 - [X]	User can **view tweets from their home timeline**
-  - [X] User is displayed the username, name, and body for each tweet
-  - [X] User is displayed the [relative timestamp](https://gist.github.com/nesquena/f786232f5ef72f6e10a7) for each tweet "8m", "7h"
+- [X] User is displayed the username, name, and body for each tweet
+- [X] User is displayed the [relative timestamp](https://gist.github.com/nesquena/f786232f5ef72f6e10a7) for each tweet "8m", "7h"
 - [X] User can refresh tweets timeline by pulling down to refresh
 
 - [X] User can **compose and post a new tweet**
-  - [X] User can click a “Compose” icon in the Action Bar on the top right
-  - [X] User can then enter a new tweet and post this to twitter
-  - [X] User is taken back to home timeline with **new tweet visible** in timeline
-  - [X] Newly created tweet should be manually inserted into the timeline and not rely on a full refresh
-  - [X] User can **see a counter with total number of characters left for tweet** on compose tweet page
+- [X] User can click a “Compose” icon in the Action Bar on the top right
+- [X] User can then enter a new tweet and post this to twitter
+- [X] User is taken back to home timeline with **new tweet visible** in timeline
+- [X] Newly created tweet should be manually inserted into the timeline and not rely on a full refresh
+- [X] User can **see a counter with total number of characters left for tweet** on compose tweet page
 
 ## Optional Features:
 - [X] User is using **"Twitter branded" colors and styles**
