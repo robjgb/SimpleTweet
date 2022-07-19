@@ -31,10 +31,10 @@ Time spent: **7** hours spent in total
 Here's a walkthrough of implemented user stories:
 Part1:
 
-    <img src='Walkthrough.gif' />
+<img src='Walkthrough.gif' />
 Part2:
 
-    <img src='Walkthrough2.gif' />
+<img src='Walkthrough2.gif' />
 
 ## Open-source libraries used
 
